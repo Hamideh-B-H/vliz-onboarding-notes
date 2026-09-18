@@ -1,1 +1,0 @@
-# vliz-onboarding-notes
