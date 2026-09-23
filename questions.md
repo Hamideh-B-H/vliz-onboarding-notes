@@ -4,3 +4,5 @@ Confirms the exact pipeline we've been working through: "Data Collection: Observ
 
 # 2. semantify?? 
 apparently is tool used for seantic uplifting 
+
+# 3. metaGoflow?
